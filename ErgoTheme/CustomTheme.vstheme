@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="ErgoTheme (2)" GUID="{94d4b173-521b-4b3a-8c45-f5773d1d7e96}" BaseGUID="{d0e8d78f-493c-4325-80a8-a1fb391a0849}">
+  <Theme Name="ErgoTheme (2)" GUID="{94d4b173-521b-4b3a-8c45-f5773d1d7e96}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
