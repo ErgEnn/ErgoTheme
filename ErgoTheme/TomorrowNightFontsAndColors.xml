@@ -1,0 +1,59 @@
+<FontsAndColors Version="2.0">
+				<Theme Id="{94D4B173-521B-4B3A-8C45-F5773D1D7E96}" />
+				<Categories>
+					<Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
+						<Items>
+							<Item Name="Odd Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Even Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Not Downloaded" Foreground="0x00999999" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Target Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Source Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Identical content" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No" />
+							<Item Name="Different content" Foreground="0x000014E5" Background="0x00FFFFFF" BoldFont="No" />
+						</Items>
+					</Category>
+					<Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontName="Consolas ligaturized v2" FontSize="11" CharSet="1" FontIsDefault="No">
+						<Items>
+							<Item Name="XML Comment" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="String" Foreground="0x0099C67E" Background="0x02000000" BoldFont="No" />
+							<Item Name="Comment" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="Keyword" Foreground="0x00CD99CC" Background="0x02000000" BoldFont="No" />
+						</Items>
+					</Category>
+					<Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000" BoldFont="No" />
+						</Items>
+					</Category>
+					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="Consolas ligaturized v2" FontSize="11" CharSet="1" FontIsDefault="No">
+						<Items>
+							<Item Name="XML Doc Tag" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="XML Doc Comment" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="String" Foreground="0x0099C67E" Background="0x02000000" BoldFont="No" />
+							<Item Name="Operator" Foreground="0x00CCCD67" Background="0x02000000" BoldFont="No" />
+							<Item Name="Keyword" Foreground="0x00CD99CC" Background="0x02000000" BoldFont="No" />
+							<Item Name="Comment" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="xml doc comment - text" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="xml doc comment - name" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="xml doc comment - delimiter" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="xml doc comment - comment" Foreground="0x00999999" Background="0x02000000" BoldFont="No" />
+							<Item Name="extension method name" Foreground="0x00498DF0" Background="0x02000000" BoldFont="No" />
+							<Item Name="method name" Foreground="0x00498DF0" Background="0x02000000" BoldFont="No" />
+							<Item Name="parameter name" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No" />
+							<Item Name="local name" Foreground="0x00CCCCCC" Background="0x02000000" BoldFont="No" />
+							<Item Name="field name" Foreground="0x01000000" Background="0x02000000" BoldFont="No" />
+							<Item Name="type parameter name" Foreground="0x0055C5F8" Background="0x02000000" BoldFont="No" />
+							<Item Name="struct name" Foreground="0x0055C5F8" Background="0x02000000" BoldFont="No" />
+							<Item Name="interface name" Foreground="0x0055C5F8" Background="0x02000000" BoldFont="No" />
+							<Item Name="enum name" Foreground="0x0055C5F8" Background="0x02000000" BoldFont="No" />
+							<Item Name="class name" Foreground="0x0055C5F8" Background="0x02000000" BoldFont="No" />
+						</Items>
+					</Category>
+					<Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontName="Consolas ligaturized v2" FontSize="11" CharSet="1" FontIsDefault="No">
+						<Items />
+					</Category>
+					<Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontName="Consolas ligaturized v2" FontSize="11" CharSet="1" FontIsDefault="No">
+						<Items />
+					</Category>
+				</Categories>
+			</FontsAndColors>
